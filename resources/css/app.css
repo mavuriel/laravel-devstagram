@@ -1,0 +1,7 @@
+/*Hace un solicitud HTTP por cada import*/
+@import "dropzone/dist/dropzone.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
